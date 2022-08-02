@@ -1,1 +1,1 @@
-# slipness.github.io
+# slipnss.github.io
