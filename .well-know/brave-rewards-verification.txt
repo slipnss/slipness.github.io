@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: slipnss.github.io
+Token: a3e44081e1293c8ca875c426a264e9e133cd321d0d52fc497dc3c5b2e3a6614c
